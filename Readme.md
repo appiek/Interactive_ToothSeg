@@ -2,8 +2,8 @@
 We present a novel and efficient interactive computing framework for segmenting the alveolar bone and individual teeth from CBCT scans by combining a deep convolutional neural network with a proposed interactive tooth landmark annotation approach. We implemented our method based on the open-source machine learning framework Pytorch. 
 
 ## Demo
-![Example Image1](https://github.com/appiek/Interactive_CNN_based_CBCT_Segmentation_Pytorch_Demo/Demo1.png)```
-![Example Image2](https://github.com/appiek/Interactive_CNN_based_CBCT_Segmentation_Pytorch_Demo/Demo2.png)```
+![Example Image1](https://github.com/appiek/Interactive_CNN_based_CBCT_Segmentation_Pytorch_Demo/Demo1.png)
+![Example Image2](https://github.com/appiek/Interactive_CNN_based_CBCT_Segmentation_Pytorch_Demo/Demo2.png)
 
 
 ## Dependencies
