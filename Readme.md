@@ -26,7 +26,7 @@ We present a novel and efficient interactive computing framework for segmenting 
 * Testing: if you just want to validate the segmentation performance of pre-trained models, follow these steps:
    1. Download our code on your computer, assume the path is "./";
    2. Download the testing data [Link](https://pan.baidu.com/s/1nIrYfkmogeZHI0NCFZRxHw?pwd=1234) and unzip this file in your computer
-   3. Download the pre-trained parameters of model [Link](https://pan.baidu.com/s/1BhCx5SayUGWYTipsPQl-AA?pwd=1234) and unzip this file into the path './checkpoints/'
+   3. Download the pre-trained parameters of model [Link](https://pan.baidu.com/s/1qnJQmIoOFtH5JQUoqrfIlQ?pwd=1234) and unzip this file into the path './checkpoints/'
    4. Run 'main.py' for testiing the performance of method
    5. We also provide an EXE version [Link](https://pan.baidu.com/s/1Hzh2eHhx1SX6ulNakvY2Zw?pwd=1234) to test our method. 
 
