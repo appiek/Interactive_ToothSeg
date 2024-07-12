@@ -20,7 +20,7 @@ We present a novel and efficient interactive computing framework for segmenting 
 ## Composition of code
 1. main.py: Construct the visual interface based on PyQT5 and Interactive tooth landmark annotation tools.
 2. /nets: model construction
-3. Tooth_Alveolar_Construction.py: Implementation of the alveolar bone and segmentation.
+3. Tooth_Alveolar_Construction.py: Implementation of the alveolar bone and individual tooth segmentation.
 
 ## Quick Start
 * Testing: if you just want to validate the segmentation performance of pre-trained models, follow these steps:
